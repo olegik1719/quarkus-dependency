@@ -1,4 +1,8 @@
 # Project exclude paths
 /target/
 .idea
+.vscode/
+.settings/
+.project
+.classpath
 *.iml
